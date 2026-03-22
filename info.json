@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "0.6.0",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.0/kingdom-ministry-manager-0.6.0.zip",
+  "version": "0.6.1",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.1/kingdom-ministry-manager-0.6.1.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Added All Events shortcode with support for past and upcoming events.</li><li>Added Elementor widget for All Events.</li><li>Added category filtering for the calendar shortcode and Elementor widget.</li><li>Added optional thumbnail display for Upcoming Events and All Events layouts.</li><li>Improved Event Single widget rendering and fixed incorrect event content in Elementor preview.</li><li>Fixed Elementor-built event content output and raw CSS showing in Event Single.</li><li>Improved calendar event loading and overall event display consistency.</li></ul>"
+    "changelog": "<ul><li>Improved event time handling to prevent fatal errors when times are missing.</li><li>All-day events no longer require start and end times.</li><li>Non-all-day events with missing times now safely hide time instead of crashing.</li><li>Updated event lists and calendar event list to hide time for all-day events and events without a specified time.</li><li>Improved event admin form behavior so date fields update instantly when All-day is toggled.</li><li>Improved ICS event download handling for events with missing time values.</li></ul>"
   }
 }
