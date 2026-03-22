@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "0.6.1",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.1/kingdom-ministry-manager-0.6.1.zip",
+  "version": "0.6.2",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.2/kingdom-ministry-manager-0.6.2.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Improved event time handling to prevent fatal errors when times are missing.</li><li>All-day events no longer require start and end times.</li><li>Non-all-day events with missing times now safely hide time instead of crashing.</li><li>Updated event lists and calendar event list to hide time for all-day events and events without a specified time.</li><li>Improved event admin form behavior so date fields update instantly when All-day is toggled.</li><li>Improved ICS event download handling for events with missing time values.</li></ul>"
+    "changelog": "<ul><li>Fixed yearly recurrence so annual events repeat on the correct calendar date by default.</li><li>Added yearly recurrence pattern options for same date every year or nth weekday of a selected month.</li><li>Added support for yearly patterns such as 3rd Sunday of March.</li><li>Updated yearly recurrence settings in the event editor.</li><li>Updated yearly recurrence save logic and recurrence summary behavior.</li><li>Improved recurring event generation for yearly nth weekday patterns.</li></ul>"
   }
 }
