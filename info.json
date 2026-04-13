@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "0.6.2",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.2/kingdom-ministry-manager-0.6.2.zip",
+  "version": "0.6.4",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.4/kingdom-ministry-manager-0.6.4.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Fixed yearly recurrence so annual events repeat on the correct calendar date by default.</li><li>Added yearly recurrence pattern options for same date every year or nth weekday of a selected month.</li><li>Added support for yearly patterns such as 3rd Sunday of March.</li><li>Updated yearly recurrence settings in the event editor.</li><li>Updated yearly recurrence save logic and recurrence summary behavior.</li><li>Improved recurring event generation for yearly nth weekday patterns.</li></ul>"
+    "changelog": "<ul><li>Fixed Theme 2 sermon cards so sermon thumbnails fully fill the left side even when descriptions are longer.</li><li>Added a new sermon taxonomy: Churches.</li><li>Added Church filter support to sermon list widgets and shortcodes.</li><li>Updated sermon filters to hide empty Speaker, Series, and Church dropdowns when no terms are assigned.</li><li>Added Churches to import/export support.</li><li>Fixed missing Churches taxonomy registration.</li><li>Added Churches taxonomy to the Sermons admin menu and sermon edit screen.</li></ul>"
   }
 }
