@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "0.6.5",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.5/kingdom-ministry-manager-0.6.5.zip",
+  "version": "0.6.6",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.6/kingdom-ministry-manager-0.6.6.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Fixed sermon single video player so locally hosted MP4/video files now display inline on the sermon page.</li><li>Added support for direct video file URLs including MP4, M4V, WebM, and OGV.</li><li>Added support for Media Library video attachment IDs in the sermon video field.</li><li>Added basic styling for the inline sermon video player.</li></ul>"
+    "changelog": "<ul><li>Added Sermon Books filter based on scripture references.</li><li>Added Sermon Date filter using Month Year format.</li><li>Added filter visibility controls for shortcode and Elementor sermon widgets.</li><li>Added shortcode support for custom filter visibility settings.</li><li>Improved sermon filters responsive layout and container fitting.</li><li>Improved frontend filter spacing and rendering.</li><li>Minor fixes and refinements.</li></ul>"
   }
 }
