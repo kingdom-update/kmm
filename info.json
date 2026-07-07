@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "0.6.6",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.6/kingdom-ministry-manager-0.6.6.zip",
+  "version": "0.6.7",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.6/kingdom-ministry-manager-0.6.7.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Added Sermon Books filter based on scripture references.</li><li>Added Sermon Date filter using Month Year format.</li><li>Added filter visibility controls for shortcode and Elementor sermon widgets.</li><li>Added shortcode support for custom filter visibility settings.</li><li>Improved sermon filters responsive layout and container fitting.</li><li>Improved frontend filter spacing and rendering.</li><li>Minor fixes and refinements.</li></ul>"
+    "changelog": "<ul><li>Added single-date editing for recurring events, allowing users to edit one specific occurrence without changing the entire event series.</li><li>Added support for changing the date, time, and category of a single recurring event occurrence.</li><li>Improved the event editor UI to make adding and managing events feel less cluttered.</li><li>Minor fixes and refinements.</li></ul>"
   }
 }
