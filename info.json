@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "0.6.7",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.7/kingdom-ministry-manager-0.6.7.zip",
+  "version": "0.6.9",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/0.6.9/kingdom-ministry-manager-0.6.9.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Added single-date editing for recurring events, allowing users to edit one specific occurrence without changing the entire event series.</li><li>Added support for changing the date, time, and category of a single recurring event occurrence.</li><li>Improved the event editor UI to make adding and managing events feel less cluttered.</li><li>Minor fixes and refinements.</li></ul>"
+    "changelog": "<ul><li>Relabeled dashboard menu from  KMM to Ministry Manager</li></ul>"
   }
 }
