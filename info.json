@@ -5,6 +5,6 @@
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Relabeled dashboard menu from  KMM to Ministry Manager</li></ul>"
+    "changelog": "<ul><li>Added featured-image ratio controls for sermon lists.</li> <li>Improved sermon image sizing and layout.</li> <li>Added two-line sermon descriptions and streamlined metadata.</li> <li>Updated the Sermon Theme 1 preview image.</li> <li>Improved Sermon Theme 1 appearance display.</li> <li>Renamed the main submenu to Shortcodes.</li> <li>Updated shortcode documentation.</li> <li>Made Single Event buttons optional.</li> <li>Added event color controls across Events Elementor widgets.</li> <li>Added responsive event-title typography controls.</li> <li>Improved asset cache-busting for immediate style updates.</li> <li>Performance and code optimization.</li></ul>"
   }
 }
