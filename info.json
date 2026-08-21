@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "1.0.0",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/1.0.0/kingdom-ministry-manager-1.0.0.zip",
+  "version": "1.0.1",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/1.0.1/kingdom-ministry-manager-1.0.1.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Added a built-in template system for Sermon Speaker, Sermon Series, Church, and All Events archives, as well as Single Sermon and Single Event views. These pages now use the plugin’s built-in templates and no longer rely on Elementor templates.</li><li>Select "Use built-in pages" in the Appearance settings to force and override system-saved values.</li><li>Updated the sermon taxonomy URL structure for cleaner, more consistent links: sermon-speaker/speaker-name → sermon/speaker/speaker-name; sermon-series/series-name → sermon/series/series-name; sermon-churches/church-name → sermon/church/church-name.</li><li>Existing links remain compatible and automatically resolve to the new URL structure.</li><li>Added options to set custom Sermons and Events pages for their respective back buttons. If unset, they will default to the /sermons and /events pages.</li><li>Improved the designs of the Single Event view and Single Event widget.</li><li>The Events Calendar is now rendered server-side to improve loading time and prevent an empty calendar from appearing on the initial load.</li></ul>"
+    "changelog": "<ul><li>Fixed event single view display and sermon and events url re-writing issue</li></ul>"
   }
 }
