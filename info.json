@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "1.0.1",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/1.0.1/kingdom-ministry-manager-1.0.1.zip",
+  "version": "1.0.2",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/1.0.2/kingdom-ministry-manager-1.0.2.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Fixed event single view display and sermon and events url re-writing issue</li></ul>"
+    "changelog": "<ul><li>Added appearance control for ministry manager archives built-in template</li></ul>"
   }
 }
