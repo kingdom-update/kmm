@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "1.0.2",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/1.0.2/kingdom-ministry-manager-1.0.2.zip",
+  "version": "1.0.3",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/1.0.3/kingdom-ministry-manager-1.0.3.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, and Calendar views (with recurrence).</p>",
-    "changelog": "<ul><li>Added appearance control for ministry manager archives built-in template</li></ul>"
+    "changelog": "<ul><li>Added search and match media files for sermons when importing sermons using Kingdom Ministry Manager importer</li><li>Added an option to remove end times on events</li></ul>"
   }
 }
