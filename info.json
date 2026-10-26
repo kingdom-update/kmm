@@ -1,10 +1,10 @@
 {
   "slug": "kingdom-ministry-manager",
-  "version": "2.0.1",
-  "download_url": "https://github.com/kingdom-update/kmm/releases/download/2.0.0/kingdom-ministry-manager-2.0.1.zip",
+  "version": "2.0.2",
+  "download_url": "https://github.com/kingdom-update/kmm/releases/download/2.0.2/kingdom-ministry-manager-2.0.2.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Internal Kingdom tool for managing Sermons, Events, Calendar, People and Giving.</p>",
-    "changelog": "<ul><li>The New Reworked Version of Kingdom Ministry Manager</li></ul>"
+    "changelog": "<ul><li>Fixed the event editor blank page and automatic dashboard page creation.</li></ul>"
   }
 }
